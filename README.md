@@ -1,6 +1,5 @@
-# CCNLTHD
- CCNLTHD2024
-- Route: App2.js
-- To do app: ToDoApp.js
-- SYLL: SYLL.js
-- Weather app: WeatherApp.js
+React tutorial
+- React co ban: useState, useEffect, components, route, css style, call API
+- TO DO APP
+- Weather APP
+- So yeu ly lich 
